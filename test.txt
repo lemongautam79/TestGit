@@ -6,5 +6,5 @@ git config --global user.email useremail.com for connecting git with github emai
 git clone url: for cloning repos
 git add filename: to add files from local to git
 git commit -m "(committed message) filename with ext: confirming to add files to git with message 
-git push -u origin master: 
+git push -u origin master: to push code into github
 git remote add origin master (url)
