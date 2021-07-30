@@ -1,4 +1,4 @@
-Git and Github tutorials texts
+Git and Github tutorials texts or code
 cd: changing directories
 ls: list all the files
 git config --global user.name "username": for connecting git with github
