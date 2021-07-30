@@ -1,1 +1,10 @@
-this is my first text file
+Git and Github tutorials texts
+cd: changing directories
+ls: list all the files
+git config --global user.name "username": for connecting git with github
+git config --global user.email useremail.com for connecting git with github email
+git clone url: for cloning repos
+git add filename: to add files from local to git
+git commit -m "(committed message) filename with ext: confirming to add files to git with message 
+git push -u origin master: 
+git remote add origin master (url)
