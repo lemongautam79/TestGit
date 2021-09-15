@@ -8,3 +8,5 @@ git add filename: to add files from local to git
 git commit -m "(committed message) filename with ext: confirming to add files to git with message 
 git push -u origin (main in my)master: to push code into github
 git remote add origin master (url)
+git status: to check whether the given repo is git repo or not
+git pull -u origin master
