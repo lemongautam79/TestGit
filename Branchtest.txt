@@ -1,0 +1,2 @@
+This is the branch test 1
+skipping staging area
